@@ -249,6 +249,7 @@ section {
   opacity: 0;
 }
 
+
 .btn:hover span.bh {
   height: 500px;
   width: 500px;
@@ -1173,7 +1174,7 @@ section {
 
 .header-top {
   padding: 10px 0;
-  background: #002563;
+  background: #0d9d86;
 }
 
 .header-top .top-text {
@@ -1224,7 +1225,7 @@ section {
 
 @media screen and (min-width: 992px) {
   .banner {
-    padding: 10% 0 5%;
+    padding: 25% 0 5%;
   }
 }
 
@@ -1336,7 +1337,7 @@ section {
   position: absolute;
   top: 0;
   left: 0;
-  background: #0d9d86;
+  background: #0d9d86b3;
   opacity: .7;
 }
 
