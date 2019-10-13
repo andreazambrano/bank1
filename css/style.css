@@ -1225,7 +1225,7 @@ section {
 
 @media screen and (min-width: 992px) {
   .banner {
-    padding: 10% 0 5%;
+    padding: 20% 0 5%;
   }
 }
 
@@ -1373,11 +1373,11 @@ section {
 }
 
 .banner.v6 {
-  background-image: url("../images/banner/10.jpg");
+  background-image: url("../images/banner/9.jpg");
 }
 
 .banner.v7 {
-  background-image: url("../images/banner/10.jpg");
+  background-image: url("../images/banner/10.jpg"); 
 }
 
 .banner.v7:before {
